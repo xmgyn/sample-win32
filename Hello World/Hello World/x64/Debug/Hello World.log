@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Work\Samples\sample-win32\Hello World\main.cpp(74,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Hello World.vcxproj -> D:\Work\Samples\sample-win32\Hello World\x64\Debug\Hello World.exe
